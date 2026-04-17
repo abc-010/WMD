@@ -7,7 +7,7 @@ body {
 
 /* HERO SECTION */
 .hero {
-    background: url("https://images.unsplash.com/photo-1558611848-73f7eb4001ab") no-repeat center/cover;
+    background: url("image/team.jpg") no-repeat center/cover;
     height: 90vh;
     display: flex;
     align-items: center;
@@ -94,4 +94,27 @@ footer {
     text-align: center;
     padding: 20px;
     background: black;
+}
+/* ABOUT HERO IMAGE */
+.about-hero {
+    background: url("https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b") no-repeat center/cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ABOUT SECTION BACKGROUND */
+.about-section {
+    background: url("https://images.unsplash.com/photo-1583454110551-21f2fa2afe61") no-repeat center/cover;
+    padding: 60px 20px;
+}
+
+/* DARK OVERLAY CONTENT BOX */
+.about-section .content {
+    background: rgba(0,0,0,0.7);
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 10px;
 }
