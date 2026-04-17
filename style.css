@@ -122,3 +122,26 @@ footer {
     opacity: 0;
     transform: translateY(50px);
 }
+nav button {
+    background: none;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    nav a {
+        display: none;
+    }
+
+    nav.active a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav button {
+        display: block;
+    }
+}
