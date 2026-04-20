@@ -93,4 +93,22 @@
     
     </fieldset>
 </body>
+
+<script type='module'>
+   import data from './countries_data.json' with {type:'json'}; 
+    console.log(data);
+   
+   var cbo=document.getElementId('country');
+   //var cbo=document.querySelector('#country');
+
+    //adding data
+    for(var k=0; k<data.length;k++){
+          var item=data[k];
+          var option=document.createOption();
+          option.value=itemcode;
+          option.textContent=item.countryname;
+          cbo.appendChild(option)
+    }
+</script>
+    
 </html>
