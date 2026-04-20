@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       label{
+         display:inline-block;
+         width:120px;
+       }
+
+
+    </style>
+</head>
+<body>
+    <fieldset id="field">
+        <legend>Registration</legend>
+        <label for="customer id">Customer ID</label>
+        <input type="text" id="customerid" required 
+         placeholder="Customer ID" /><br/>
+
+    
+        <label for="firstname">Firstname</label>
+        <input type="text" id="firstname" required
+         placeholder="Firstname" /><br/>
+    
+        <label for="surname">Surname</label>
+        <input type="text" id="surname" required 
+         placeholder="Surname" /><br/>
+
+        <label for="gender">Gender</label>
+        <select id="gender" onchange="alert(this. value)">
+             <!--<option>Select</option>
+             <option>Female</option>
+             <option>Male</option>
+             -->
+
+             <option value="0">Select...</option>
+             <option value="F">Female</option>
+             <option value="M">Male</option>
+        </select><br/>
+
+          <label for="dob">DOB</label>
+          <input type="date" id="dob" required/> <br/>
+
+          <label for="email">Email</label>
+          <input type="email" id="email" required
+          placeholder="Email Address"/><br/>
+          
+          <label>Marital status:</label>
+          <label for="single">Single</label>
+          <input type="radio" id="single" name="status" value="s"/>
+
+           <label for="married">Married</label>
+          <input type="radio" id="married" name="status" value="m"/>
+
+           <label for="divorced">Divorced</label>
+          <input type="radio" id="divorced" name="status" value="D"/>
+
+           <label for="widowed">Widowed</label>
+          <input type="radio" id="widowed" name="status" value="w"/><br/>
+
+          <label for="cellno">Cell Number:</label>
+          <input type ="tel" id="cellno" required 
+          placeholder="71000000"/><br/>
+
+          <label for="password">Password</label>
+          <input type="password" id="password" required/><br/>
+
+          <label for="dateregistered">Date Registered</label>
+          <input type="date" id="dateregistered" required/><br/>
+
+          <label for="timeregistered">Time Registered</label>
+          <input type="time" id="timeregistered" required/><br/>
+
+          <label for="country">Country</label>
+          <select id="country"></select><br/>
+
+          <label>Modules:</label>
+          <label for="cms">CMS</label>
+          <input type="checkbox" id="cms" name="module" />
+
+          <label for="wmd">WMD</label>
+          <input type="checkbox" id="wmd" name="module" />
+
+          <label for="c#">C#</label>
+          <input type="checkbox" id="c#" name="module" />
+
+
+          
+
+    
+    </fieldset>
+</body>
+</html>
