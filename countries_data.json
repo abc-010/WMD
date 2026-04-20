@@ -1,0 +1,2261 @@
+[
+    {
+        "COUNTRYID": 1,
+        "COUNTRY": "Algeria",
+        "CAPITALCITY": "Algier",
+        "CONTINENT": "Africa",
+        "CURRENCY": "DZD",
+        "COUNTRYCODE": "DZ",
+        "TELCODE": 213
+    },
+    {
+        "COUNTRYID": 2,
+        "COUNTRY": "Angola",
+        "CAPITALCITY": "Luanda",
+        "CONTINENT": "Africa",
+        "CURRENCY": "AOA",
+        "COUNTRYCODE": "AO",
+        "TELCODE": 244
+    },
+    {
+        "COUNTRYID": 3,
+        "COUNTRY": "Ascension Island",
+        "CAPITALCITY": "Georgetown",
+        "CONTINENT": "Africa",
+        "CURRENCY": "AC",
+        "COUNTRYCODE": "AC",
+        "TELCODE": 247
+    },
+    {
+        "COUNTRYID": 4,
+        "COUNTRY": "Benin",
+        "CAPITALCITY": "Porto Novo",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "BJ",
+        "TELCODE": 229
+    },
+    {
+        "COUNTRYID": 5,
+        "COUNTRY": "Botswana",
+        "CAPITALCITY": "Gaborone",
+        "CONTINENT": "Africa",
+        "CURRENCY": "BWP",
+        "COUNTRYCODE": "BW",
+        "TELCODE": 267
+    },
+    {
+        "COUNTRYID": 6,
+        "COUNTRY": "Burkina Faso",
+        "CAPITALCITY": "Ouagadougou",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "BF",
+        "TELCODE": 226
+    },
+    {
+        "COUNTRYID": 7,
+        "COUNTRY": "Burundi",
+        "CAPITALCITY": "Bujumbura",
+        "CONTINENT": "Africa",
+        "CURRENCY": "BIF",
+        "COUNTRYCODE": "BI",
+        "TELCODE": 257
+    },
+    {
+        "COUNTRYID": 8,
+        "COUNTRY": "Cameroon",
+        "CAPITALCITY": "Yaound\u00c3\u00a9",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XAF",
+        "COUNTRYCODE": "CM",
+        "TELCODE": 237
+    },
+    {
+        "COUNTRYID": 9,
+        "COUNTRY": "Cape Verde",
+        "CAPITALCITY": "Praia",
+        "CONTINENT": "Africa",
+        "CURRENCY": "CVE",
+        "COUNTRYCODE": "CV",
+        "TELCODE": 238
+    },
+    {
+        "COUNTRYID": 10,
+        "COUNTRY": "Central African Republic",
+        "CAPITALCITY": "Bangui",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XAF",
+        "COUNTRYCODE": "CF",
+        "TELCODE": 236
+    },
+    {
+        "COUNTRYID": 11,
+        "COUNTRY": "Chad",
+        "CAPITALCITY": "NDjamena",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XAF",
+        "COUNTRYCODE": "TD",
+        "TELCODE": 235
+    },
+    {
+        "COUNTRYID": 12,
+        "COUNTRY": "Comoros",
+        "CAPITALCITY": "Moroni",
+        "CONTINENT": "Africa",
+        "CURRENCY": "KMF",
+        "COUNTRYCODE": "KM",
+        "TELCODE": 269
+    },
+    {
+        "COUNTRYID": 13,
+        "COUNTRY": "Congo",
+        "CAPITALCITY": "Brazzaville",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XAF",
+        "COUNTRYCODE": "CG",
+        "TELCODE": 242
+    },
+    {
+        "COUNTRYID": 14,
+        "COUNTRY": "Congo, The Democratic Republic Of The",
+        "CAPITALCITY": "Kinshasa",
+        "CONTINENT": "Africa",
+        "CURRENCY": "CDF",
+        "COUNTRYCODE": "CD",
+        "TELCODE": 243
+    },
+    {
+        "COUNTRYID": 15,
+        "COUNTRY": "C\u00c3\u201dte Divoire",
+        "CAPITALCITY": "Yamoussoukro",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "CI",
+        "TELCODE": 225
+    },
+    {
+        "COUNTRYID": 16,
+        "COUNTRY": "Diego Garcia",
+        "CAPITALCITY": "Diego Garcia (Main Island)",
+        "CONTINENT": "Africa",
+        "CURRENCY": "DG",
+        "COUNTRYCODE": "DG",
+        "TELCODE": 246
+    },
+    {
+        "COUNTRYID": 17,
+        "COUNTRY": "Djibouti",
+        "CAPITALCITY": "Djibouti City",
+        "CONTINENT": "Africa",
+        "CURRENCY": "DJF",
+        "COUNTRYCODE": "DJ",
+        "TELCODE": 253
+    },
+    {
+        "COUNTRYID": 18,
+        "COUNTRY": "Egypt",
+        "CAPITALCITY": "Kairo",
+        "CONTINENT": "Africa",
+        "CURRENCY": "EGP",
+        "COUNTRYCODE": "EG",
+        "TELCODE": 20
+    },
+    {
+        "COUNTRYID": 19,
+        "COUNTRY": "Equatorial Guinea",
+        "CAPITALCITY": "Malabo",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XAF",
+        "COUNTRYCODE": "GQ",
+        "TELCODE": 240
+    },
+    {
+        "COUNTRYID": 20,
+        "COUNTRY": "Eritrea",
+        "CAPITALCITY": "Asmara (Asmera)",
+        "CONTINENT": "Africa",
+        "CURRENCY": "ERN",
+        "COUNTRYCODE": "ER",
+        "TELCODE": 291
+    },
+    {
+        "COUNTRYID": 21,
+        "COUNTRY": "Ethiopia",
+        "CAPITALCITY": "Addis Abeba",
+        "CONTINENT": "Africa",
+        "CURRENCY": "ETB",
+        "COUNTRYCODE": "ET",
+        "TELCODE": 251
+    },
+    {
+        "COUNTRYID": 22,
+        "COUNTRY": "Falkland Islands (malvinas)",
+        "CAPITALCITY": "Port Stanley",
+        "CONTINENT": "Africa",
+        "CURRENCY": "FLP",
+        "COUNTRYCODE": "FK",
+        "TELCODE": 500
+    },
+    {
+        "COUNTRYID": 23,
+        "COUNTRY": "Gabon",
+        "CAPITALCITY": "Libreville",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XAF",
+        "COUNTRYCODE": "GA",
+        "TELCODE": 241
+    },
+    {
+        "COUNTRYID": 24,
+        "COUNTRY": "Ghana",
+        "CAPITALCITY": "Accra",
+        "CONTINENT": "Africa",
+        "CURRENCY": "GHC",
+        "COUNTRYCODE": "GH",
+        "TELCODE": 233
+    },
+    {
+        "COUNTRYID": 25,
+        "COUNTRY": "Gibraltar",
+        "CAPITALCITY": "Gibraltar (Stadt)",
+        "CONTINENT": "Africa",
+        "CURRENCY": "GIP",
+        "COUNTRYCODE": "GI",
+        "TELCODE": 350
+    },
+    {
+        "COUNTRYID": 26,
+        "COUNTRY": "Guinea",
+        "CAPITALCITY": "Conakry",
+        "CONTINENT": "Africa",
+        "CURRENCY": "GNF",
+        "COUNTRYCODE": "GN",
+        "TELCODE": 224
+    },
+    {
+        "COUNTRYID": 27,
+        "COUNTRY": "Guinea-Bissau",
+        "CAPITALCITY": "Bissau",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "GW",
+        "TELCODE": 245
+    },
+    {
+        "COUNTRYID": 28,
+        "COUNTRY": "Kenya",
+        "CAPITALCITY": "Nairobi",
+        "CONTINENT": "Africa",
+        "CURRENCY": "KES",
+        "COUNTRYCODE": "KE",
+        "TELCODE": 254
+    },
+    {
+        "COUNTRYID": 29,
+        "COUNTRY": "Lesotho",
+        "CAPITALCITY": "Maseru",
+        "CONTINENT": "Africa",
+        "CURRENCY": "LSL",
+        "COUNTRYCODE": "LS",
+        "TELCODE": 266
+    },
+    {
+        "COUNTRYID": 30,
+        "COUNTRY": "Liberia",
+        "CAPITALCITY": "Monrovia",
+        "CONTINENT": "Africa",
+        "CURRENCY": "LRD",
+        "COUNTRYCODE": "LR",
+        "TELCODE": 231
+    },
+    {
+        "COUNTRYID": 31,
+        "COUNTRY": "Libya",
+        "CAPITALCITY": "Tripolis",
+        "CONTINENT": "Africa",
+        "CURRENCY": "LYD",
+        "COUNTRYCODE": "LY",
+        "TELCODE": 218
+    },
+    {
+        "COUNTRYID": 32,
+        "COUNTRY": "Madagascar",
+        "CAPITALCITY": "Antananarivo",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MGA",
+        "COUNTRYCODE": "MG",
+        "TELCODE": 261
+    },
+    {
+        "COUNTRYID": 33,
+        "COUNTRY": "Malawi",
+        "CAPITALCITY": "Lilongwe",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MWK",
+        "COUNTRYCODE": "MW",
+        "TELCODE": 265
+    },
+    {
+        "COUNTRYID": 34,
+        "COUNTRY": "Mali",
+        "CAPITALCITY": "Bamako",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "ML",
+        "TELCODE": 223
+    },
+    {
+        "COUNTRYID": 35,
+        "COUNTRY": "Mauritania",
+        "CAPITALCITY": "Nouakchott",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MRO",
+        "COUNTRYCODE": "MR",
+        "TELCODE": 222
+    },
+    {
+        "COUNTRYID": 36,
+        "COUNTRY": "Mauritius",
+        "CAPITALCITY": "Port Louis",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MUR",
+        "COUNTRYCODE": "MU",
+        "TELCODE": 230
+    },
+    {
+        "COUNTRYID": 37,
+        "COUNTRY": "Mayotte",
+        "CAPITALCITY": "Mamoudzou",
+        "CONTINENT": "Africa",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "YT",
+        "TELCODE": 269
+    },
+    {
+        "COUNTRYID": 38,
+        "COUNTRY": "Morocco",
+        "CAPITALCITY": "Rabat",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MAD",
+        "COUNTRYCODE": "MA",
+        "TELCODE": 211
+    },
+    {
+        "COUNTRYID": 39,
+        "COUNTRY": "Mozambique",
+        "CAPITALCITY": "Maputo",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MZM",
+        "COUNTRYCODE": "MZ",
+        "TELCODE": 258
+    },
+    {
+        "COUNTRYID": 40,
+        "COUNTRY": "Namibia",
+        "CAPITALCITY": "Windhoek",
+        "CONTINENT": "Africa",
+        "CURRENCY": "ZAR",
+        "COUNTRYCODE": NaN,
+        "TELCODE": 264
+    },
+    {
+        "COUNTRYID": 41,
+        "COUNTRY": "Niger",
+        "CAPITALCITY": "Niamey",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "NE",
+        "TELCODE": 227
+    },
+    {
+        "COUNTRYID": 42,
+        "COUNTRY": "Nigeria",
+        "CAPITALCITY": "Abuja",
+        "CONTINENT": "Africa",
+        "CURRENCY": "NGN",
+        "COUNTRYCODE": "NG",
+        "TELCODE": 234
+    },
+    {
+        "COUNTRYID": 43,
+        "COUNTRY": "R\u00c3\u2030union",
+        "CAPITALCITY": "Saint-Denis",
+        "CONTINENT": "Africa",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "RE",
+        "TELCODE": 262
+    },
+    {
+        "COUNTRYID": 44,
+        "COUNTRY": "Rwanda",
+        "CAPITALCITY": "Kigali",
+        "CONTINENT": "Africa",
+        "CURRENCY": "RWF",
+        "COUNTRYCODE": "RW",
+        "TELCODE": 250
+    },
+    {
+        "COUNTRYID": 45,
+        "COUNTRY": "Saint Helena",
+        "CAPITALCITY": "Jamestown",
+        "CONTINENT": "Africa",
+        "CURRENCY": "SHP",
+        "COUNTRYCODE": "SH",
+        "TELCODE": 290
+    },
+    {
+        "COUNTRYID": 46,
+        "COUNTRY": "Sao Tome And Principe",
+        "CAPITALCITY": "S\u00c3\u00a3o Tom\u00c3\u00a9",
+        "CONTINENT": "Africa",
+        "CURRENCY": "STD",
+        "COUNTRYCODE": "ST",
+        "TELCODE": 239
+    },
+    {
+        "COUNTRYID": 47,
+        "COUNTRY": "Senegal",
+        "CAPITALCITY": "Dakar",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "SN",
+        "TELCODE": 221
+    },
+    {
+        "COUNTRYID": 48,
+        "COUNTRY": "Seychelles",
+        "CAPITALCITY": "Victoria",
+        "CONTINENT": "Africa",
+        "CURRENCY": "SCR",
+        "COUNTRYCODE": "SC",
+        "TELCODE": 248
+    },
+    {
+        "COUNTRYID": 49,
+        "COUNTRY": "Sierra Leone",
+        "CAPITALCITY": "Freetown",
+        "CONTINENT": "Africa",
+        "CURRENCY": "SLL",
+        "COUNTRYCODE": "SL",
+        "TELCODE": 232
+    },
+    {
+        "COUNTRYID": 50,
+        "COUNTRY": "Somalia",
+        "CAPITALCITY": "Mogadischu",
+        "CONTINENT": "Africa",
+        "CURRENCY": "SOS",
+        "COUNTRYCODE": "SO",
+        "TELCODE": 252
+    },
+    {
+        "COUNTRYID": 51,
+        "COUNTRY": "South Africa",
+        "CAPITALCITY": "Pretoria",
+        "CONTINENT": "Africa",
+        "CURRENCY": "ZAR",
+        "COUNTRYCODE": "ZA",
+        "TELCODE": 27
+    },
+    {
+        "COUNTRYID": 52,
+        "COUNTRY": "Sudan",
+        "CAPITALCITY": "Khartum",
+        "CONTINENT": "Africa",
+        "CURRENCY": "SDD",
+        "COUNTRYCODE": "SD",
+        "TELCODE": 249
+    },
+    {
+        "COUNTRYID": 53,
+        "COUNTRY": "Swaziland",
+        "CAPITALCITY": "Mbabane",
+        "CONTINENT": "Africa",
+        "CURRENCY": "SZL",
+        "COUNTRYCODE": "SZ",
+        "TELCODE": 268
+    },
+    {
+        "COUNTRYID": 54,
+        "COUNTRY": "Tanzania, United Republic Of",
+        "CAPITALCITY": "Dodoma",
+        "CONTINENT": "Africa",
+        "CURRENCY": "TZS",
+        "COUNTRYCODE": "TZ",
+        "TELCODE": 255
+    },
+    {
+        "COUNTRYID": 55,
+        "COUNTRY": "The Gambia",
+        "CAPITALCITY": "Banjul",
+        "CONTINENT": "Africa",
+        "CURRENCY": "GMD",
+        "COUNTRYCODE": "GM",
+        "TELCODE": 220
+    },
+    {
+        "COUNTRYID": 56,
+        "COUNTRY": "Togo",
+        "CAPITALCITY": "Lom\u00c3\u00a9",
+        "CONTINENT": "Africa",
+        "CURRENCY": "XOF",
+        "COUNTRYCODE": "TG",
+        "TELCODE": 228
+    },
+    {
+        "COUNTRYID": 57,
+        "COUNTRY": "Tristan da Cunha",
+        "CAPITALCITY": "Jamestown",
+        "CONTINENT": "Africa",
+        "CURRENCY": "TA",
+        "COUNTRYCODE": "TA",
+        "TELCODE": 290
+    },
+    {
+        "COUNTRYID": 58,
+        "COUNTRY": "Tunisia",
+        "CAPITALCITY": "Tunis",
+        "CONTINENT": "Africa",
+        "CURRENCY": "TND",
+        "COUNTRYCODE": "TN",
+        "TELCODE": 216
+    },
+    {
+        "COUNTRYID": 59,
+        "COUNTRY": "Uganda",
+        "CAPITALCITY": "Kampala",
+        "CONTINENT": "Africa",
+        "CURRENCY": "UGX",
+        "COUNTRYCODE": "UG",
+        "TELCODE": 256
+    },
+    {
+        "COUNTRYID": 60,
+        "COUNTRY": "Western Sahara",
+        "CAPITALCITY": "El Aai\u00c3\u00ban",
+        "CONTINENT": "Africa",
+        "CURRENCY": "MAD",
+        "COUNTRYCODE": "EH",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 61,
+        "COUNTRY": "Zambia",
+        "CAPITALCITY": "Lusaka",
+        "CONTINENT": "Africa",
+        "CURRENCY": "ZMK",
+        "COUNTRYCODE": "ZM",
+        "TELCODE": 260
+    },
+    {
+        "COUNTRYID": 62,
+        "COUNTRY": "Zimbabwe",
+        "CAPITALCITY": "Harare",
+        "CONTINENT": "Africa",
+        "CURRENCY": "ZWD",
+        "COUNTRYCODE": "ZW",
+        "TELCODE": 263
+    },
+    {
+        "COUNTRYID": 63,
+        "COUNTRY": "Afghanistan",
+        "CAPITALCITY": "Kabul",
+        "CONTINENT": "Asia",
+        "CURRENCY": "AFN",
+        "COUNTRYCODE": "AF",
+        "TELCODE": 93
+    },
+    {
+        "COUNTRYID": 64,
+        "COUNTRY": "Armenia",
+        "CAPITALCITY": "Eriwan",
+        "CONTINENT": "Asia",
+        "CURRENCY": "AMD",
+        "COUNTRYCODE": "AM",
+        "TELCODE": 374
+    },
+    {
+        "COUNTRYID": 65,
+        "COUNTRY": "Azerbaijan",
+        "CAPITALCITY": "Baku",
+        "CONTINENT": "Asia",
+        "CURRENCY": "AZN",
+        "COUNTRYCODE": "AZ",
+        "TELCODE": 994
+    },
+    {
+        "COUNTRYID": 66,
+        "COUNTRY": "Bahrain",
+        "CAPITALCITY": "Manama",
+        "CONTINENT": "Asia",
+        "CURRENCY": "BHD",
+        "COUNTRYCODE": "BH",
+        "TELCODE": 973
+    },
+    {
+        "COUNTRYID": 67,
+        "COUNTRY": "Bangladesh",
+        "CAPITALCITY": "Dhaka",
+        "CONTINENT": "Asia",
+        "CURRENCY": "BDT",
+        "COUNTRYCODE": "BD",
+        "TELCODE": 880
+    },
+    {
+        "COUNTRYID": 68,
+        "COUNTRY": "Bhutan",
+        "CAPITALCITY": "Thimphu",
+        "CONTINENT": "Asia",
+        "CURRENCY": "BTN",
+        "COUNTRYCODE": "BT",
+        "TELCODE": 975
+    },
+    {
+        "COUNTRYID": 69,
+        "COUNTRY": "British Indian Ocean Territory",
+        "CAPITALCITY": "-/-",
+        "CONTINENT": "Asia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "IO",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 70,
+        "COUNTRY": "Brunei Darussalam",
+        "CAPITALCITY": "Bandar Seri Begawan",
+        "CONTINENT": "Asia",
+        "CURRENCY": "BND",
+        "COUNTRYCODE": "BN",
+        "TELCODE": 673
+    },
+    {
+        "COUNTRYID": 71,
+        "COUNTRY": "Burma",
+        "CAPITALCITY": "Rangun",
+        "CONTINENT": "Asia",
+        "CURRENCY": "MMK",
+        "COUNTRYCODE": "MM",
+        "TELCODE": 95
+    },
+    {
+        "COUNTRYID": 72,
+        "COUNTRY": "Cambodia",
+        "CAPITALCITY": "Phnom Penh",
+        "CONTINENT": "Asia",
+        "CURRENCY": "KHR",
+        "COUNTRYCODE": "KH",
+        "TELCODE": 855
+    },
+    {
+        "COUNTRYID": 73,
+        "COUNTRY": "China",
+        "CAPITALCITY": "Peking (Beijing)",
+        "CONTINENT": "Asia",
+        "CURRENCY": "CNY",
+        "COUNTRYCODE": "CN",
+        "TELCODE": 86
+    },
+    {
+        "COUNTRYID": 74,
+        "COUNTRY": "Christmas Island",
+        "CAPITALCITY": "Flying Fish Cove",
+        "CONTINENT": "Asia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "CX",
+        "TELCODE": 61
+    },
+    {
+        "COUNTRYID": 75,
+        "COUNTRY": "Cocos (keeling) Islands",
+        "CAPITALCITY": "West Island",
+        "CONTINENT": "Asia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "CC",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 76,
+        "COUNTRY": "Cyprus",
+        "CAPITALCITY": "Nikosia",
+        "CONTINENT": "Asia",
+        "CURRENCY": "CYP",
+        "COUNTRYCODE": "CY",
+        "TELCODE": 357
+    },
+    {
+        "COUNTRYID": 77,
+        "COUNTRY": "Guam",
+        "CAPITALCITY": "Hag\u00c3\u00a5t\u00c3\u00b1a",
+        "CONTINENT": "Asia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "GU",
+        "TELCODE": 1671
+    },
+    {
+        "COUNTRYID": 78,
+        "COUNTRY": "Hong Kong",
+        "CAPITALCITY": "-/-",
+        "CONTINENT": "Asia",
+        "CURRENCY": "HNL",
+        "COUNTRYCODE": "HK",
+        "TELCODE": 852
+    },
+    {
+        "COUNTRYID": 79,
+        "COUNTRY": "India",
+        "CAPITALCITY": "Neu-Delhi",
+        "CONTINENT": "Asia",
+        "CURRENCY": "ISK",
+        "COUNTRYCODE": "IN",
+        "TELCODE": 91
+    },
+    {
+        "COUNTRYID": 80,
+        "COUNTRY": "Indonesia",
+        "CAPITALCITY": "Jakarta",
+        "CONTINENT": "Asia",
+        "CURRENCY": "INR",
+        "COUNTRYCODE": "ID",
+        "TELCODE": 62
+    },
+    {
+        "COUNTRYID": 81,
+        "COUNTRY": "Iran",
+        "CAPITALCITY": "Teheran",
+        "CONTINENT": "Asia",
+        "CURRENCY": "IRR",
+        "COUNTRYCODE": "IR",
+        "TELCODE": 98
+    },
+    {
+        "COUNTRYID": 82,
+        "COUNTRY": "Iraq",
+        "CAPITALCITY": "Bagdad",
+        "CONTINENT": "Asia",
+        "CURRENCY": "IDR",
+        "COUNTRYCODE": "IQ",
+        "TELCODE": 964
+    },
+    {
+        "COUNTRYID": 83,
+        "COUNTRY": "Israel",
+        "CAPITALCITY": "Jerusalem",
+        "CONTINENT": "Asia",
+        "CURRENCY": "ILS",
+        "COUNTRYCODE": "IL",
+        "TELCODE": 972
+    },
+    {
+        "COUNTRYID": 84,
+        "COUNTRY": "Japan",
+        "CAPITALCITY": "Tokio",
+        "CONTINENT": "Asia",
+        "CURRENCY": "JPY",
+        "COUNTRYCODE": "JP",
+        "TELCODE": 81
+    },
+    {
+        "COUNTRYID": 85,
+        "COUNTRY": "Jordan",
+        "CAPITALCITY": "Amman",
+        "CONTINENT": "Asia",
+        "CURRENCY": "JOD",
+        "COUNTRYCODE": "JO",
+        "TELCODE": 962
+    },
+    {
+        "COUNTRYID": 86,
+        "COUNTRY": "Kazakhstan",
+        "CAPITALCITY": "Astana",
+        "CONTINENT": "Asia",
+        "CURRENCY": "KZT",
+        "COUNTRYCODE": "KZ",
+        "TELCODE": 7
+    },
+    {
+        "COUNTRYID": 87,
+        "COUNTRY": "Kuwait",
+        "CAPITALCITY": "Kuwait",
+        "CONTINENT": "Asia",
+        "CURRENCY": "KWD",
+        "COUNTRYCODE": "KW",
+        "TELCODE": 965
+    },
+    {
+        "COUNTRYID": 88,
+        "COUNTRY": "Kyrgyzstan",
+        "CAPITALCITY": "Bischkek",
+        "CONTINENT": "Asia",
+        "CURRENCY": "KGS",
+        "COUNTRYCODE": "KG",
+        "TELCODE": 996
+    },
+    {
+        "COUNTRYID": 89,
+        "COUNTRY": "Lao Peoples Democratic Republic",
+        "CAPITALCITY": "Vientiane",
+        "CONTINENT": "Asia",
+        "CURRENCY": "LAK",
+        "COUNTRYCODE": "LA",
+        "TELCODE": 856
+    },
+    {
+        "COUNTRYID": 90,
+        "COUNTRY": "Lebanon",
+        "CAPITALCITY": "Beirut",
+        "CONTINENT": "Asia",
+        "CURRENCY": "LBP",
+        "COUNTRYCODE": "LB",
+        "TELCODE": 961
+    },
+    {
+        "COUNTRYID": 91,
+        "COUNTRY": "Macao",
+        "CAPITALCITY": "-/-",
+        "CONTINENT": "Asia",
+        "CURRENCY": "MOP",
+        "COUNTRYCODE": "MO",
+        "TELCODE": 853
+    },
+    {
+        "COUNTRYID": 92,
+        "COUNTRY": "Malaysia",
+        "CAPITALCITY": "Kuala Lumpur",
+        "CONTINENT": "Asia",
+        "CURRENCY": "MYR",
+        "COUNTRYCODE": "MY",
+        "TELCODE": 60
+    },
+    {
+        "COUNTRYID": 93,
+        "COUNTRY": "Maldives",
+        "CAPITALCITY": "Mal\u00c3\u00a9",
+        "CONTINENT": "Asia",
+        "CURRENCY": "MVR",
+        "COUNTRYCODE": "MV",
+        "TELCODE": 960
+    },
+    {
+        "COUNTRYID": 94,
+        "COUNTRY": "Mongolia",
+        "CAPITALCITY": "Ulaanbaatar",
+        "CONTINENT": "Asia",
+        "CURRENCY": "MNT",
+        "COUNTRYCODE": "MN",
+        "TELCODE": 976
+    },
+    {
+        "COUNTRYID": 95,
+        "COUNTRY": "Nepal",
+        "CAPITALCITY": "Kathmandu",
+        "CONTINENT": "Asia",
+        "CURRENCY": "NPR",
+        "COUNTRYCODE": "NP",
+        "TELCODE": 977
+    },
+    {
+        "COUNTRYID": 96,
+        "COUNTRY": "North Korea",
+        "CAPITALCITY": "Pj\u00c3\u00b6ngjang",
+        "CONTINENT": "Asia",
+        "CURRENCY": "KPW",
+        "COUNTRYCODE": "KP",
+        "TELCODE": 850
+    },
+    {
+        "COUNTRYID": 97,
+        "COUNTRY": "Oman",
+        "CAPITALCITY": "Maskat",
+        "CONTINENT": "Asia",
+        "CURRENCY": "OMR",
+        "COUNTRYCODE": "OM",
+        "TELCODE": 968
+    },
+    {
+        "COUNTRYID": 98,
+        "COUNTRY": "Pakistan",
+        "CAPITALCITY": "Islamabad",
+        "CONTINENT": "Asia",
+        "CURRENCY": "PKR",
+        "COUNTRYCODE": "PK",
+        "TELCODE": 92
+    },
+    {
+        "COUNTRYID": 99,
+        "COUNTRY": "Palestinian Territory, Occupied",
+        "CAPITALCITY": "Ramallah",
+        "CONTINENT": "Asia",
+        "CURRENCY": "PS",
+        "COUNTRYCODE": "PS",
+        "TELCODE": 970
+    },
+    {
+        "COUNTRYID": 100,
+        "COUNTRY": "Philippines",
+        "CAPITALCITY": "Manila",
+        "CONTINENT": "Asia",
+        "CURRENCY": "PHP",
+        "COUNTRYCODE": "PH",
+        "TELCODE": 63
+    },
+    {
+        "COUNTRYID": 101,
+        "COUNTRY": "Qatar",
+        "CAPITALCITY": "Doha",
+        "CONTINENT": "Asia",
+        "CURRENCY": "QAR",
+        "COUNTRYCODE": "QA",
+        "TELCODE": 974
+    },
+    {
+        "COUNTRYID": 102,
+        "COUNTRY": "Russian Federation",
+        "CAPITALCITY": "Moskau",
+        "CONTINENT": "Asia",
+        "CURRENCY": "RUB",
+        "COUNTRYCODE": "RU",
+        "TELCODE": 7
+    },
+    {
+        "COUNTRYID": 103,
+        "COUNTRY": "Saudi Arabia",
+        "CAPITALCITY": "Riad",
+        "CONTINENT": "Asia",
+        "CURRENCY": "SAR",
+        "COUNTRYCODE": "SA",
+        "TELCODE": 966
+    },
+    {
+        "COUNTRYID": 104,
+        "COUNTRY": "Saudi\u00e2\u20ac\u201cIraqi neutral zone",
+        "CAPITALCITY": "-/-",
+        "CONTINENT": "Asia",
+        "CURRENCY": "NT",
+        "COUNTRYCODE": "NT",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 105,
+        "COUNTRY": "Singapore",
+        "CAPITALCITY": "Singapur",
+        "CONTINENT": "Asia",
+        "CURRENCY": "SGD",
+        "COUNTRYCODE": "SG",
+        "TELCODE": 65
+    },
+    {
+        "COUNTRYID": 106,
+        "COUNTRY": "South Korea",
+        "CAPITALCITY": "Seoul",
+        "CONTINENT": "Asia",
+        "CURRENCY": "KRW",
+        "COUNTRYCODE": "KR",
+        "TELCODE": 82
+    },
+    {
+        "COUNTRYID": 107,
+        "COUNTRY": "Sri Lanka",
+        "CAPITALCITY": "Colombo",
+        "CONTINENT": "Asia",
+        "CURRENCY": "LKR",
+        "COUNTRYCODE": "LK",
+        "TELCODE": 94
+    },
+    {
+        "COUNTRYID": 108,
+        "COUNTRY": "Syrian Arab Republic",
+        "CAPITALCITY": "Damaskus",
+        "CONTINENT": "Asia",
+        "CURRENCY": "SYP",
+        "COUNTRYCODE": "SY",
+        "TELCODE": 963
+    },
+    {
+        "COUNTRYID": 109,
+        "COUNTRY": "Taiwan",
+        "CAPITALCITY": "Taipeh",
+        "CONTINENT": "Asia",
+        "CURRENCY": "TWD",
+        "COUNTRYCODE": "TW",
+        "TELCODE": 886
+    },
+    {
+        "COUNTRYID": 110,
+        "COUNTRY": "Tajikistan",
+        "CAPITALCITY": "Duschanbe",
+        "CONTINENT": "Asia",
+        "CURRENCY": "RUB",
+        "COUNTRYCODE": "TJ",
+        "TELCODE": 992
+    },
+    {
+        "COUNTRYID": 111,
+        "COUNTRY": "Thailand",
+        "CAPITALCITY": "Bangkok",
+        "CONTINENT": "Asia",
+        "CURRENCY": "THB",
+        "COUNTRYCODE": "TH",
+        "TELCODE": 66
+    },
+    {
+        "COUNTRYID": 112,
+        "COUNTRY": "Turkey",
+        "CAPITALCITY": "Ankara",
+        "CONTINENT": "Asia",
+        "CURRENCY": "TRY",
+        "COUNTRYCODE": "TR",
+        "TELCODE": 90
+    },
+    {
+        "COUNTRYID": 113,
+        "COUNTRY": "Turkmenistan",
+        "CAPITALCITY": "Asgabat",
+        "CONTINENT": "Asia",
+        "CURRENCY": "TMM",
+        "COUNTRYCODE": "TM",
+        "TELCODE": 993
+    },
+    {
+        "COUNTRYID": 114,
+        "COUNTRY": "United Arab Emirates",
+        "CAPITALCITY": "Abu Dhabi",
+        "CONTINENT": "Asia",
+        "CURRENCY": "AED",
+        "COUNTRYCODE": "AE",
+        "TELCODE": 971
+    },
+    {
+        "COUNTRYID": 115,
+        "COUNTRY": "Uzbekistan",
+        "CAPITALCITY": "Taschkent",
+        "CONTINENT": "Asia",
+        "CURRENCY": "UZS",
+        "COUNTRYCODE": "UZ",
+        "TELCODE": 998
+    },
+    {
+        "COUNTRYID": 116,
+        "COUNTRY": "Viet Nam",
+        "CAPITALCITY": "H\u00c3 \u00a0N?i",
+        "CONTINENT": "Asia",
+        "CURRENCY": "VND",
+        "COUNTRYCODE": "VN",
+        "TELCODE": 84
+    },
+    {
+        "COUNTRYID": 117,
+        "COUNTRY": "Yemen",
+        "CAPITALCITY": "Sanaa",
+        "CONTINENT": "Asia",
+        "CURRENCY": "YER",
+        "COUNTRYCODE": "YE",
+        "TELCODE": 967
+    },
+    {
+        "COUNTRYID": 118,
+        "COUNTRY": "Antarctica",
+        "CAPITALCITY": "Juneau",
+        "CONTINENT": "Antarctica",
+        "CURRENCY": "AQ",
+        "COUNTRYCODE": "AQ",
+        "TELCODE": 672
+    },
+    {
+        "COUNTRYID": 119,
+        "COUNTRY": "Bouvet Island",
+        "CAPITALCITY": "(Forschungsinsel)",
+        "CONTINENT": "Antarctica",
+        "CURRENCY": "NOK",
+        "COUNTRYCODE": "BV",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 120,
+        "COUNTRY": "French Southern Territories",
+        "CAPITALCITY": "Port-aux-Fran\u00c3\u00a7ais",
+        "CONTINENT": "Antarctica",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "TF",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 121,
+        "COUNTRY": "American Samoa",
+        "CAPITALCITY": "Pago-Pago",
+        "CONTINENT": "Australia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "AS",
+        "TELCODE": 1684
+    },
+    {
+        "COUNTRYID": 122,
+        "COUNTRY": "Australia",
+        "CAPITALCITY": "Canberra",
+        "CONTINENT": "Australia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "AU",
+        "TELCODE": 61
+    },
+    {
+        "COUNTRYID": 123,
+        "COUNTRY": "Cook Islands",
+        "CAPITALCITY": "Avarua",
+        "CONTINENT": "Australia",
+        "CURRENCY": "NZD",
+        "COUNTRYCODE": "CK",
+        "TELCODE": 682
+    },
+    {
+        "COUNTRYID": 124,
+        "COUNTRY": "East Timor",
+        "CAPITALCITY": "Dili",
+        "CONTINENT": "Australia",
+        "CURRENCY": "IDR",
+        "COUNTRYCODE": "TL",
+        "TELCODE": 670
+    },
+    {
+        "COUNTRYID": 125,
+        "COUNTRY": "Fiji",
+        "CAPITALCITY": "Suva",
+        "CONTINENT": "Australia",
+        "CURRENCY": "FJD",
+        "COUNTRYCODE": "FJ",
+        "TELCODE": 679
+    },
+    {
+        "COUNTRYID": 126,
+        "COUNTRY": "French Polynesia",
+        "CAPITALCITY": "Papeete",
+        "CONTINENT": "Australia",
+        "CURRENCY": "XPF",
+        "COUNTRYCODE": "PF",
+        "TELCODE": 689
+    },
+    {
+        "COUNTRYID": 127,
+        "COUNTRY": "Heard Island And Mcdonald Islands",
+        "CAPITALCITY": "-/-",
+        "CONTINENT": "Australia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "HM",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 128,
+        "COUNTRY": "Kiribati",
+        "CAPITALCITY": "Bairiki",
+        "CONTINENT": "Australia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "KI",
+        "TELCODE": 686
+    },
+    {
+        "COUNTRYID": 129,
+        "COUNTRY": "Marshall Islands",
+        "CAPITALCITY": "Delap-Uliga-Darrit",
+        "CONTINENT": "Australia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "MH",
+        "TELCODE": 692
+    },
+    {
+        "COUNTRYID": 130,
+        "COUNTRY": "Micronesia, Federated States Of",
+        "CAPITALCITY": "Palikir",
+        "CONTINENT": "Australia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "FM",
+        "TELCODE": 691
+    },
+    {
+        "COUNTRYID": 131,
+        "COUNTRY": "Nauru",
+        "CAPITALCITY": "Yaren",
+        "CONTINENT": "Australia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "NR",
+        "TELCODE": 674
+    },
+    {
+        "COUNTRYID": 132,
+        "COUNTRY": "New Caledonia",
+        "CAPITALCITY": "Noum\u00c3\u00a9a",
+        "CONTINENT": "Australia",
+        "CURRENCY": "XPF",
+        "COUNTRYCODE": "NC",
+        "TELCODE": 687
+    },
+    {
+        "COUNTRYID": 133,
+        "COUNTRY": "New Zealand",
+        "CAPITALCITY": "Wellington",
+        "CONTINENT": "Australia",
+        "CURRENCY": "NZD",
+        "COUNTRYCODE": "NZ",
+        "TELCODE": 64
+    },
+    {
+        "COUNTRYID": 134,
+        "COUNTRY": "Niue",
+        "CAPITALCITY": "Alofi",
+        "CONTINENT": "Australia",
+        "CURRENCY": "NZD",
+        "COUNTRYCODE": "NU",
+        "TELCODE": 683
+    },
+    {
+        "COUNTRYID": 135,
+        "COUNTRY": "Norfolk Island",
+        "CAPITALCITY": "Kingston",
+        "CONTINENT": "Australia",
+        "CURRENCY": "AUD",
+        "COUNTRYCODE": "NF",
+        "TELCODE": 6723
+    },
+    {
+        "COUNTRYID": 136,
+        "COUNTRY": "Northern Mariana Islands",
+        "CAPITALCITY": "Saipan",
+        "CONTINENT": "Australia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "MP",
+        "TELCODE": 1670
+    },
+    {
+        "COUNTRYID": 137,
+        "COUNTRY": "Palau",
+        "CAPITALCITY": "Melekeok",
+        "CONTINENT": "Australia",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "PW",
+        "TELCODE": 680
+    },
+    {
+        "COUNTRYID": 138,
+        "COUNTRY": "Papua New Guinea",
+        "CAPITALCITY": "Port Moresby",
+        "CONTINENT": "Australia",
+        "CURRENCY": "PGK",
+        "COUNTRYCODE": "PG",
+        "TELCODE": 675
+    },
+    {
+        "COUNTRYID": 139,
+        "COUNTRY": "Pitcairn",
+        "CAPITALCITY": "Adamstown",
+        "CONTINENT": "Australia",
+        "CURRENCY": "NZD",
+        "COUNTRYCODE": "PN",
+        "TELCODE": 649
+    },
+    {
+        "COUNTRYID": 140,
+        "COUNTRY": "Samoa",
+        "CAPITALCITY": "Apia",
+        "CONTINENT": "Australia",
+        "CURRENCY": "WST",
+        "COUNTRYCODE": "WS",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 141,
+        "COUNTRY": "Solomon Islands",
+        "CAPITALCITY": "Honiara",
+        "CONTINENT": "Australia",
+        "CURRENCY": "SBD",
+        "COUNTRYCODE": "SB",
+        "TELCODE": 677
+    },
+    {
+        "COUNTRYID": 142,
+        "COUNTRY": "Tokelau",
+        "CAPITALCITY": "-/-",
+        "CONTINENT": "Australia",
+        "CURRENCY": "NZD",
+        "COUNTRYCODE": "TK",
+        "TELCODE": 690
+    },
+    {
+        "COUNTRYID": 143,
+        "COUNTRY": "Tonga",
+        "CAPITALCITY": "Nuku\u00e2\u20ac\u2122alofa",
+        "CONTINENT": "Australia",
+        "CURRENCY": "TOP",
+        "COUNTRYCODE": "TO",
+        "TELCODE": 676
+    },
+    {
+        "COUNTRYID": 144,
+        "COUNTRY": "Tuvalu",
+        "CAPITALCITY": "Funafuti",
+        "CONTINENT": "Australia",
+        "CURRENCY": "TVD",
+        "COUNTRYCODE": "TV",
+        "TELCODE": 688
+    },
+    {
+        "COUNTRYID": 145,
+        "COUNTRY": "Vanuatu",
+        "CAPITALCITY": "Port Vila",
+        "CONTINENT": "Australia",
+        "CURRENCY": "VUV",
+        "COUNTRYCODE": "VU",
+        "TELCODE": 678
+    },
+    {
+        "COUNTRYID": 146,
+        "COUNTRY": "Wallis And Futuna",
+        "CAPITALCITY": "Mata-Utu",
+        "CONTINENT": "Australia",
+        "CURRENCY": "XPF",
+        "COUNTRYCODE": "WF",
+        "TELCODE": 681
+    },
+    {
+        "COUNTRYID": 147,
+        "COUNTRY": "\u00c3\u2026land Islands",
+        "CAPITALCITY": "Mariehamn",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "AX",
+        "TELCODE": 35818
+    },
+    {
+        "COUNTRYID": 148,
+        "COUNTRY": "Albania",
+        "CAPITALCITY": "Tirana",
+        "CONTINENT": "Europe",
+        "CURRENCY": "ALL",
+        "COUNTRYCODE": "AL",
+        "TELCODE": 355
+    },
+    {
+        "COUNTRYID": 149,
+        "COUNTRY": "Andorra",
+        "CAPITALCITY": "Andorra la Vella",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "AD",
+        "TELCODE": 376
+    },
+    {
+        "COUNTRYID": 150,
+        "COUNTRY": "Austria",
+        "CAPITALCITY": "Wien",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "AT",
+        "TELCODE": 43
+    },
+    {
+        "COUNTRYID": 151,
+        "COUNTRY": "Belarus",
+        "CAPITALCITY": "Minsk",
+        "CONTINENT": "Europe",
+        "CURRENCY": "BYR",
+        "COUNTRYCODE": "BY",
+        "TELCODE": 375
+    },
+    {
+        "COUNTRYID": 152,
+        "COUNTRY": "Belgium",
+        "CAPITALCITY": "Br\u00c3\u00bcssel",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "BE",
+        "TELCODE": 32
+    },
+    {
+        "COUNTRYID": 153,
+        "COUNTRY": "Bosnia And Herzegovina",
+        "CAPITALCITY": "Sarajevo",
+        "CONTINENT": "Europe",
+        "CURRENCY": "BAM",
+        "COUNTRYCODE": "BA",
+        "TELCODE": 387
+    },
+    {
+        "COUNTRYID": 154,
+        "COUNTRY": "Bulgaria",
+        "CAPITALCITY": "Sofia",
+        "CONTINENT": "Europe",
+        "CURRENCY": "BGN",
+        "COUNTRYCODE": "BG",
+        "TELCODE": 359
+    },
+    {
+        "COUNTRYID": 155,
+        "COUNTRY": "Canary Islands",
+        "CAPITALCITY": "Santa Cruz de Tenerife",
+        "CONTINENT": "Europe",
+        "CURRENCY": "IC",
+        "COUNTRYCODE": "IC",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 156,
+        "COUNTRY": "Croatia",
+        "CAPITALCITY": "Zagreb",
+        "CONTINENT": "Europe",
+        "CURRENCY": "HRK",
+        "COUNTRYCODE": "HR",
+        "TELCODE": 385
+    },
+    {
+        "COUNTRYID": 157,
+        "COUNTRY": "Czech Republic",
+        "CAPITALCITY": "Prag",
+        "CONTINENT": "Europe",
+        "CURRENCY": "CZK",
+        "COUNTRYCODE": "CZ",
+        "TELCODE": 420
+    },
+    {
+        "COUNTRYID": 158,
+        "COUNTRY": "Denmark",
+        "CAPITALCITY": "Kopenhagen",
+        "CONTINENT": "Europe",
+        "CURRENCY": "DKK",
+        "COUNTRYCODE": "DK",
+        "TELCODE": 45
+    },
+    {
+        "COUNTRYID": 159,
+        "COUNTRY": "Estonia",
+        "CAPITALCITY": "Tallinn (Reval)",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EEK",
+        "COUNTRYCODE": "EE",
+        "TELCODE": 372
+    },
+    {
+        "COUNTRYID": 160,
+        "COUNTRY": "European Union",
+        "CAPITALCITY": "Brussels",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "EU",
+        "TELCODE": 3883
+    },
+    {
+        "COUNTRYID": 161,
+        "COUNTRY": "Faroe Islands",
+        "CAPITALCITY": "T\u00c3\u00b3rshavn",
+        "CONTINENT": "Europe",
+        "CURRENCY": "DKK",
+        "COUNTRYCODE": "FO",
+        "TELCODE": 298
+    },
+    {
+        "COUNTRYID": 162,
+        "COUNTRY": "Finland",
+        "CAPITALCITY": "Helsinki",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "FI",
+        "TELCODE": 358
+    },
+    {
+        "COUNTRYID": 163,
+        "COUNTRY": "France",
+        "CAPITALCITY": "Paris",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "FR",
+        "TELCODE": 33
+    },
+    {
+        "COUNTRYID": 164,
+        "COUNTRY": "Georgia",
+        "CAPITALCITY": "Tiflis",
+        "CONTINENT": "Europe",
+        "CURRENCY": "GEL",
+        "COUNTRYCODE": "GE",
+        "TELCODE": 995
+    },
+    {
+        "COUNTRYID": 165,
+        "COUNTRY": "Germany",
+        "CAPITALCITY": "Berlin",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "DE",
+        "TELCODE": 49
+    },
+    {
+        "COUNTRYID": 166,
+        "COUNTRY": "Greece",
+        "CAPITALCITY": "Athen",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "GR",
+        "TELCODE": 30
+    },
+    {
+        "COUNTRYID": 167,
+        "COUNTRY": "Guernsey",
+        "CAPITALCITY": "St. Peter Port",
+        "CONTINENT": "Europe",
+        "CURRENCY": "GGP",
+        "COUNTRYCODE": "GG",
+        "TELCODE": 44148
+    },
+    {
+        "COUNTRYID": 168,
+        "COUNTRY": "Hungary",
+        "CAPITALCITY": "Budapest",
+        "CONTINENT": "Europe",
+        "CURRENCY": "HUF",
+        "COUNTRYCODE": "HU",
+        "TELCODE": 36
+    },
+    {
+        "COUNTRYID": 169,
+        "COUNTRY": "Iceland",
+        "CAPITALCITY": "Reykjav\u00c3\u00adk",
+        "CONTINENT": "Europe",
+        "CURRENCY": "HUF",
+        "COUNTRYCODE": "IS",
+        "TELCODE": 354
+    },
+    {
+        "COUNTRYID": 170,
+        "COUNTRY": "Ireland",
+        "CAPITALCITY": "Dublin",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "IE",
+        "TELCODE": 353
+    },
+    {
+        "COUNTRYID": 171,
+        "COUNTRY": "Isle Of Man",
+        "CAPITALCITY": "Douglas",
+        "CONTINENT": "Europe",
+        "CURRENCY": "IMP",
+        "COUNTRYCODE": "IM",
+        "TELCODE": 44
+    },
+    {
+        "COUNTRYID": 172,
+        "COUNTRY": "Italy",
+        "CAPITALCITY": "Rom",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "IT",
+        "TELCODE": 39
+    },
+    {
+        "COUNTRYID": 173,
+        "COUNTRY": "Jersey",
+        "CAPITALCITY": "Saint Helier",
+        "CONTINENT": "Europe",
+        "CURRENCY": "JEP",
+        "COUNTRYCODE": "JE",
+        "TELCODE": 44
+    },
+    {
+        "COUNTRYID": 174,
+        "COUNTRY": "Latvia",
+        "CAPITALCITY": "Riga",
+        "CONTINENT": "Europe",
+        "CURRENCY": "LVL",
+        "COUNTRYCODE": "LV",
+        "TELCODE": 371
+    },
+    {
+        "COUNTRYID": 175,
+        "COUNTRY": "Liechtenstein",
+        "CAPITALCITY": "Vaduz",
+        "CONTINENT": "Europe",
+        "CURRENCY": "CHF",
+        "COUNTRYCODE": "LI",
+        "TELCODE": 423
+    },
+    {
+        "COUNTRYID": 176,
+        "COUNTRY": "Lithuania",
+        "CAPITALCITY": "Wilna",
+        "CONTINENT": "Europe",
+        "CURRENCY": "LTL",
+        "COUNTRYCODE": "LT",
+        "TELCODE": 370
+    },
+    {
+        "COUNTRYID": 177,
+        "COUNTRY": "Luxembourg",
+        "CAPITALCITY": "Luxemburg",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "LU",
+        "TELCODE": 352
+    },
+    {
+        "COUNTRYID": 178,
+        "COUNTRY": "Malta",
+        "CAPITALCITY": "Valletta",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "MT",
+        "TELCODE": 356
+    },
+    {
+        "COUNTRYID": 179,
+        "COUNTRY": "Moldova",
+        "CAPITALCITY": "Chisinau",
+        "CONTINENT": "Europe",
+        "CURRENCY": "MDL",
+        "COUNTRYCODE": "MD",
+        "TELCODE": 373
+    },
+    {
+        "COUNTRYID": 180,
+        "COUNTRY": "Monaco",
+        "CAPITALCITY": "Monaco",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "MC",
+        "TELCODE": 377
+    },
+    {
+        "COUNTRYID": 181,
+        "COUNTRY": "Montenegro",
+        "CAPITALCITY": "Podgorica",
+        "CONTINENT": "Europe",
+        "CURRENCY": "ME",
+        "COUNTRYCODE": "ME",
+        "TELCODE": 382
+    },
+    {
+        "COUNTRYID": 182,
+        "COUNTRY": "Netherlands",
+        "CAPITALCITY": "Amsterdam",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "NL",
+        "TELCODE": 31
+    },
+    {
+        "COUNTRYID": 183,
+        "COUNTRY": "Norway",
+        "CAPITALCITY": "Oslo",
+        "CONTINENT": "Europe",
+        "CURRENCY": "NOK",
+        "COUNTRYCODE": "NO",
+        "TELCODE": 47
+    },
+    {
+        "COUNTRYID": 184,
+        "COUNTRY": "Poland",
+        "CAPITALCITY": "Warschau",
+        "CONTINENT": "Europe",
+        "CURRENCY": "PLN",
+        "COUNTRYCODE": "PL",
+        "TELCODE": 48
+    },
+    {
+        "COUNTRYID": 185,
+        "COUNTRY": "Portugal",
+        "CAPITALCITY": "Lissabon",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "PT",
+        "TELCODE": 351
+    },
+    {
+        "COUNTRYID": 186,
+        "COUNTRY": "Republic of Macedonia",
+        "CAPITALCITY": "Skopje",
+        "CONTINENT": "Europe",
+        "CURRENCY": "MKD",
+        "COUNTRYCODE": "MK",
+        "TELCODE": 389
+    },
+    {
+        "COUNTRYID": 187,
+        "COUNTRY": "Romania",
+        "CAPITALCITY": "Bukarest",
+        "CONTINENT": "Europe",
+        "CURRENCY": "RON",
+        "COUNTRYCODE": "RO",
+        "TELCODE": 40
+    },
+    {
+        "COUNTRYID": 188,
+        "COUNTRY": "San Marino",
+        "CAPITALCITY": "San Marino",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "SM",
+        "TELCODE": 378
+    },
+    {
+        "COUNTRYID": 189,
+        "COUNTRY": "Serbia",
+        "CAPITALCITY": "Belgrade",
+        "CONTINENT": "Europe",
+        "CURRENCY": "RSD",
+        "COUNTRYCODE": "RS",
+        "TELCODE": 381
+    },
+    {
+        "COUNTRYID": 190,
+        "COUNTRY": "Serbien und Montenegro",
+        "CAPITALCITY": "Belgrad",
+        "CONTINENT": "Europe",
+        "CURRENCY": "CS",
+        "COUNTRYCODE": "CS",
+        "TELCODE": 381
+    },
+    {
+        "COUNTRYID": 191,
+        "COUNTRY": "Slovakia",
+        "CAPITALCITY": "Bratislava",
+        "CONTINENT": "Europe",
+        "CURRENCY": "SKK",
+        "COUNTRYCODE": "SK",
+        "TELCODE": 421
+    },
+    {
+        "COUNTRYID": 192,
+        "COUNTRY": "Slovenia",
+        "CAPITALCITY": "Ljubljana",
+        "CONTINENT": "Europe",
+        "CURRENCY": "SIT",
+        "COUNTRYCODE": "SI",
+        "TELCODE": 386
+    },
+    {
+        "COUNTRYID": 193,
+        "COUNTRY": "Soviet Union",
+        "CAPITALCITY": "Moskau",
+        "CONTINENT": "Europe",
+        "CURRENCY": "SU",
+        "COUNTRYCODE": "SU",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 194,
+        "COUNTRY": "Spain",
+        "CAPITALCITY": "Madrid",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "ES",
+        "TELCODE": 34
+    },
+    {
+        "COUNTRYID": 195,
+        "COUNTRY": "Svalbard And Jan Mayen",
+        "CAPITALCITY": "Longyearbyen",
+        "CONTINENT": "Europe",
+        "CURRENCY": "NOK",
+        "COUNTRYCODE": "SJ",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 196,
+        "COUNTRY": "Sweden",
+        "CAPITALCITY": "Stockholm",
+        "CONTINENT": "Europe",
+        "CURRENCY": "SEK",
+        "COUNTRYCODE": "SE",
+        "TELCODE": 46
+    },
+    {
+        "COUNTRYID": 197,
+        "COUNTRY": "Switzerland",
+        "CAPITALCITY": "Bern",
+        "CONTINENT": "Europe",
+        "CURRENCY": "CHF",
+        "COUNTRYCODE": "CH",
+        "TELCODE": 41
+    },
+    {
+        "COUNTRYID": 198,
+        "COUNTRY": "Ukraine",
+        "CAPITALCITY": "Kiew",
+        "CONTINENT": "Europe",
+        "CURRENCY": "UAH",
+        "COUNTRYCODE": "UA",
+        "TELCODE": 380
+    },
+    {
+        "COUNTRYID": 199,
+        "COUNTRY": "United Kingdom",
+        "CAPITALCITY": "London",
+        "CONTINENT": "Europe",
+        "CURRENCY": "GBP",
+        "COUNTRYCODE": "GB",
+        "TELCODE": 44
+    },
+    {
+        "COUNTRYID": 200,
+        "COUNTRY": "Vatican City",
+        "CAPITALCITY": "Vatican City",
+        "CONTINENT": "Europe",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "VA",
+        "TELCODE": 3906
+    },
+    {
+        "COUNTRYID": 201,
+        "COUNTRY": "Anguilla",
+        "CAPITALCITY": "The Valley",
+        "CONTINENT": "North America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "AI",
+        "TELCODE": 1264
+    },
+    {
+        "COUNTRYID": 202,
+        "COUNTRY": "Antigua And Barbuda",
+        "CAPITALCITY": "Saint Johns",
+        "CONTINENT": "North America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "AG",
+        "TELCODE": 1268
+    },
+    {
+        "COUNTRYID": 203,
+        "COUNTRY": "Aruba",
+        "CAPITALCITY": "Oranjestad",
+        "CONTINENT": "North America",
+        "CURRENCY": "ANG",
+        "COUNTRYCODE": "AW",
+        "TELCODE": 297
+    },
+    {
+        "COUNTRYID": 204,
+        "COUNTRY": "Bahamas",
+        "CAPITALCITY": "Nassau",
+        "CONTINENT": "North America",
+        "CURRENCY": "BSD",
+        "COUNTRYCODE": "BS",
+        "TELCODE": 1242
+    },
+    {
+        "COUNTRYID": 205,
+        "COUNTRY": "Barbados",
+        "CAPITALCITY": "Bridgetown",
+        "CONTINENT": "North America",
+        "CURRENCY": "BBD",
+        "COUNTRYCODE": "BB",
+        "TELCODE": 1246
+    },
+    {
+        "COUNTRYID": 206,
+        "COUNTRY": "Belize",
+        "CAPITALCITY": "Belmopan",
+        "CONTINENT": "North America",
+        "CURRENCY": "BZD",
+        "COUNTRYCODE": "BZ",
+        "TELCODE": 51
+    },
+    {
+        "COUNTRYID": 207,
+        "COUNTRY": "Bermuda",
+        "CAPITALCITY": "Hamilton",
+        "CONTINENT": "North America",
+        "CURRENCY": "BMD",
+        "COUNTRYCODE": "BM",
+        "TELCODE": 1441
+    },
+    {
+        "COUNTRYID": 208,
+        "COUNTRY": "British Virgin Islands",
+        "CAPITALCITY": "Road Town",
+        "CONTINENT": "North America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "VG",
+        "TELCODE": 1284
+    },
+    {
+        "COUNTRYID": 209,
+        "COUNTRY": "Canada",
+        "CAPITALCITY": "Ottawa",
+        "CONTINENT": "North America",
+        "CURRENCY": "CAD",
+        "COUNTRYCODE": "CA",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 210,
+        "COUNTRY": "Cayman Islands",
+        "CAPITALCITY": "George Town",
+        "CONTINENT": "North America",
+        "CURRENCY": "KYD",
+        "COUNTRYCODE": "KY",
+        "TELCODE": 1345
+    },
+    {
+        "COUNTRYID": 211,
+        "COUNTRY": "Costa Rica",
+        "CAPITALCITY": "San Jos\u00c3\u00a9",
+        "CONTINENT": "North America",
+        "CURRENCY": "CRC",
+        "COUNTRYCODE": "CR",
+        "TELCODE": 56
+    },
+    {
+        "COUNTRYID": 212,
+        "COUNTRY": "Cuba",
+        "CAPITALCITY": "Havanna",
+        "CONTINENT": "North America",
+        "CURRENCY": "CUP",
+        "COUNTRYCODE": "CU",
+        "TELCODE": 53
+    },
+    {
+        "COUNTRYID": 213,
+        "COUNTRY": "Dominica",
+        "CAPITALCITY": "Roseau",
+        "CONTINENT": "North America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "DM",
+        "TELCODE": 1767
+    },
+    {
+        "COUNTRYID": 214,
+        "COUNTRY": "El Salvador",
+        "CAPITALCITY": "San Salvador",
+        "CONTINENT": "North America",
+        "CURRENCY": "SVC",
+        "COUNTRYCODE": "SV",
+        "TELCODE": 53
+    },
+    {
+        "COUNTRYID": 215,
+        "COUNTRY": "Greenland",
+        "CAPITALCITY": "Nuuk",
+        "CONTINENT": "North America",
+        "CURRENCY": "DKK",
+        "COUNTRYCODE": "GL",
+        "TELCODE": 299
+    },
+    {
+        "COUNTRYID": 216,
+        "COUNTRY": "Grenada",
+        "CAPITALCITY": "St. Georges",
+        "CONTINENT": "North America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "GD",
+        "TELCODE": 1473
+    },
+    {
+        "COUNTRYID": 217,
+        "COUNTRY": "Guadeloupe",
+        "CAPITALCITY": "Basse-Terre",
+        "CONTINENT": "North America",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "GP",
+        "TELCODE": 590
+    },
+    {
+        "COUNTRYID": 218,
+        "COUNTRY": "Guatemala",
+        "CAPITALCITY": "Guatemala-Stadt",
+        "CONTINENT": "North America",
+        "CURRENCY": "GTQ",
+        "COUNTRYCODE": "GT",
+        "TELCODE": 52
+    },
+    {
+        "COUNTRYID": 219,
+        "COUNTRY": "Haiti",
+        "CAPITALCITY": "Port-au-Prince",
+        "CONTINENT": "North America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "HT",
+        "TELCODE": 59
+    },
+    {
+        "COUNTRYID": 220,
+        "COUNTRY": "Honduras",
+        "CAPITALCITY": "Tegucigalpa",
+        "CONTINENT": "North America",
+        "CURRENCY": "HNL",
+        "COUNTRYCODE": "HN",
+        "TELCODE": 54
+    },
+    {
+        "COUNTRYID": 221,
+        "COUNTRY": "Jamaica",
+        "CAPITALCITY": "Kingston",
+        "CONTINENT": "North America",
+        "CURRENCY": "JMD",
+        "COUNTRYCODE": "JM",
+        "TELCODE": 1876
+    },
+    {
+        "COUNTRYID": 222,
+        "COUNTRY": "Martinique",
+        "CAPITALCITY": "Fort-de-France",
+        "CONTINENT": "North America",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "MQ",
+        "TELCODE": 596
+    },
+    {
+        "COUNTRYID": 223,
+        "COUNTRY": "Mexico",
+        "CAPITALCITY": "Mexiko-Stadt",
+        "CONTINENT": "North America",
+        "CURRENCY": "MXN",
+        "COUNTRYCODE": "MX",
+        "TELCODE": 52
+    },
+    {
+        "COUNTRYID": 224,
+        "COUNTRY": "Montserrat",
+        "CAPITALCITY": "Plymouth",
+        "CONTINENT": "North America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "MS",
+        "TELCODE": 1664
+    },
+    {
+        "COUNTRYID": 225,
+        "COUNTRY": "Netherlands Antilles",
+        "CAPITALCITY": "Willemstad",
+        "CONTINENT": "North America",
+        "CURRENCY": "ANG",
+        "COUNTRYCODE": "AN",
+        "TELCODE": 599
+    },
+    {
+        "COUNTRYID": 226,
+        "COUNTRY": "Nicaragua",
+        "CAPITALCITY": "Managua",
+        "CONTINENT": "North America",
+        "CURRENCY": "NIO",
+        "COUNTRYCODE": "NI",
+        "TELCODE": 55
+    },
+    {
+        "COUNTRYID": 227,
+        "COUNTRY": "Puerto Rico",
+        "CAPITALCITY": "San Juan",
+        "CONTINENT": "North America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "PR",
+        "TELCODE": 1939
+    },
+    {
+        "COUNTRYID": 228,
+        "COUNTRY": "Saint Kitts And Nevis",
+        "CAPITALCITY": "Basseterre",
+        "CONTINENT": "North America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "KN",
+        "TELCODE": 1869
+    },
+    {
+        "COUNTRYID": 229,
+        "COUNTRY": "Saint Pierre And Miquelon",
+        "CAPITALCITY": "Saint-Pierre",
+        "CONTINENT": "North America",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "PM",
+        "TELCODE": 508
+    },
+    {
+        "COUNTRYID": 230,
+        "COUNTRY": "Turks And Caicos Islands",
+        "CAPITALCITY": "Cockburn Town auf Grand Turk",
+        "CONTINENT": "North America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "TC",
+        "TELCODE": 1649
+    },
+    {
+        "COUNTRYID": 231,
+        "COUNTRY": "United States",
+        "CAPITALCITY": "Washington, D.C.",
+        "CONTINENT": "North America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "US",
+        "TELCODE": 1
+    },
+    {
+        "COUNTRYID": 232,
+        "COUNTRY": "Argentina",
+        "CAPITALCITY": "Buenos Aires",
+        "CONTINENT": "South America",
+        "CURRENCY": "ARS",
+        "COUNTRYCODE": "AR",
+        "TELCODE": 54
+    },
+    {
+        "COUNTRYID": 233,
+        "COUNTRY": "Bolivia",
+        "CAPITALCITY": "Sucre",
+        "CONTINENT": "South America",
+        "CURRENCY": "BOB",
+        "COUNTRYCODE": "BO",
+        "TELCODE": 591
+    },
+    {
+        "COUNTRYID": 234,
+        "COUNTRY": "Brazil",
+        "CAPITALCITY": "Bras\u00c3\u00adlia",
+        "CONTINENT": "South America",
+        "CURRENCY": "BRL",
+        "COUNTRYCODE": "BR",
+        "TELCODE": 55
+    },
+    {
+        "COUNTRYID": 235,
+        "COUNTRY": "Chile",
+        "CAPITALCITY": "Santiago",
+        "CONTINENT": "South America",
+        "CURRENCY": "CLP",
+        "COUNTRYCODE": "CL",
+        "TELCODE": 56
+    },
+    {
+        "COUNTRYID": 236,
+        "COUNTRY": "Colombia",
+        "CAPITALCITY": "Santa F\u00c3\u00a9 de Bogot\u00c3\u00a1",
+        "CONTINENT": "South America",
+        "CURRENCY": "COP",
+        "COUNTRYCODE": "CO",
+        "TELCODE": 57
+    },
+    {
+        "COUNTRYID": 237,
+        "COUNTRY": "Dominican Republic",
+        "CAPITALCITY": "Santo Domingo",
+        "CONTINENT": "South America",
+        "CURRENCY": "DOP",
+        "COUNTRYCODE": "DO",
+        "TELCODE": 1809
+    },
+    {
+        "COUNTRYID": 238,
+        "COUNTRY": "Ecuador",
+        "CAPITALCITY": "Quito",
+        "CONTINENT": "South America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "EC",
+        "TELCODE": 593
+    },
+    {
+        "COUNTRYID": 239,
+        "COUNTRY": "French Guiana",
+        "CAPITALCITY": "Cayenne",
+        "CONTINENT": "South America",
+        "CURRENCY": "EUR",
+        "COUNTRYCODE": "GF",
+        "TELCODE": 594
+    },
+    {
+        "COUNTRYID": 240,
+        "COUNTRY": "Guyana",
+        "CAPITALCITY": "Georgetown",
+        "CONTINENT": "South America",
+        "CURRENCY": "GYD",
+        "COUNTRYCODE": "GY",
+        "TELCODE": 592
+    },
+    {
+        "COUNTRYID": 241,
+        "COUNTRY": "Panama",
+        "CAPITALCITY": "Panama City",
+        "CONTINENT": "South America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "PA",
+        "TELCODE": 57
+    },
+    {
+        "COUNTRYID": 242,
+        "COUNTRY": "Paraguay",
+        "CAPITALCITY": "Asunci\u00c3\u00b3n",
+        "CONTINENT": "South America",
+        "CURRENCY": "PYG",
+        "COUNTRYCODE": "PY",
+        "TELCODE": 595
+    },
+    {
+        "COUNTRYID": 243,
+        "COUNTRY": "Peru",
+        "CAPITALCITY": "Lima",
+        "CONTINENT": "South America",
+        "CURRENCY": "PEN",
+        "COUNTRYCODE": "PE",
+        "TELCODE": 51
+    },
+    {
+        "COUNTRYID": 244,
+        "COUNTRY": "Saint Lucia",
+        "CAPITALCITY": "Castries",
+        "CONTINENT": "South America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "LC",
+        "TELCODE": 1758
+    },
+    {
+        "COUNTRYID": 245,
+        "COUNTRY": "Saint Vincent and the Grenadines",
+        "CAPITALCITY": "Kingstown",
+        "CONTINENT": "South America",
+        "CURRENCY": "XCD",
+        "COUNTRYCODE": "VC",
+        "TELCODE": 1784
+    },
+    {
+        "COUNTRYID": 246,
+        "COUNTRY": "South Georgia And The South Sandwich Islands",
+        "CAPITALCITY": "King Edward Point",
+        "CONTINENT": "South America",
+        "CURRENCY": "GBP",
+        "COUNTRYCODE": "GS",
+        "TELCODE": 0
+    },
+    {
+        "COUNTRYID": 247,
+        "COUNTRY": "Suriname",
+        "CAPITALCITY": "Paramaribo",
+        "CONTINENT": "South America",
+        "CURRENCY": "SRD",
+        "COUNTRYCODE": "SR",
+        "TELCODE": 597
+    },
+    {
+        "COUNTRYID": 248,
+        "COUNTRY": "Trinidad And Tobago",
+        "CAPITALCITY": "Port-of-Spain",
+        "CONTINENT": "South America",
+        "CURRENCY": "TTD",
+        "COUNTRYCODE": "TT",
+        "TELCODE": 1868
+    },
+    {
+        "COUNTRYID": 249,
+        "COUNTRY": "Uruguay",
+        "CAPITALCITY": "Montevideo",
+        "CONTINENT": "South America",
+        "CURRENCY": "UYU",
+        "COUNTRYCODE": "UY",
+        "TELCODE": 598
+    },
+    {
+        "COUNTRYID": 250,
+        "COUNTRY": "Venezuela",
+        "CAPITALCITY": "Caracas",
+        "CONTINENT": "South America",
+        "CURRENCY": "VEB",
+        "COUNTRYCODE": "VE",
+        "TELCODE": 58
+    },
+    {
+        "COUNTRYID": 251,
+        "COUNTRY": "Virgin Islands, U.s.",
+        "CAPITALCITY": "Charlotte Amalie",
+        "CONTINENT": "South America",
+        "CURRENCY": "USD",
+        "COUNTRYCODE": "VI",
+        "TELCODE": 1340
+    }
+]
