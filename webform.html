@@ -6,8 +6,90 @@
     <title>Document</title>
 </head>
 <body>
+    <div id="wrapper">
 
+     <label for="country">Country:</label>
+        <select id="country"></select>
+        
+    </div>
+        
     
     
 </body>
+    <script>
+        //get file data
+            var filedata = GetFileData('countries_data.csv'); //wmd_students.json|csv
+ 
+            //load dropdown
+            LoadDropDown("#country", filedata);
+        
+        //read file data : csv and json
+
+            function GetFileData(url) {
+
+                
+
+                if (url.toLowerCase().endsWith(".csv") || url.toLowerCase().endsWith(".txt")) {
+
+ 
+
+                    // Simple manual parsing: split by line and then by comma
+
+                    return fetch(url)
+
+                        .then(response => response.text())
+
+                        .then(text => {
+
+                            const lines = text.trim().split('\n');
+
+                            const data = lines.map(row => row.split(','));
+
+                            console.log(data);
+
+                            return data;
+
+                        });  
+
+ 
+
+                } else if(url.endsWith('.json')){
+
+ 
+
+                    return fetch(url)
+
+                        .then(response => response.json())
+
+                        .then(jsonData => {
+
+                            const headers = Object.keys(jsonData[0]);             //1. get headers from first row keys
+
+                            const rows = jsonData.map(obj => Object.values(obj)); //2. Map through data to get values
+
+                            const normalizedArray = [headers, ...rows];           //3. Normalise - Combine headers and rows
+
+                            console.log(normalizedArray);
+
+                            return normalizedArray;
+
+                        });  
+
+                }
+
+            }
+
+        async function LoadDropDown(ddl, promise_data){
+                var arrdata = await promise_data;  //resolve promise
+                var data = Object.values(arrdata); //get values data
+                var cbo = document.querySelector(cbo);
+                cbo.add(new Option("Select...", "0"));
+                data.slice(1).forEach(row => { //skip header row 0
+                    cbo.add(new Option(row[1], row[5]));
+                });
+            })
+
+
+    </script>
+    
 </html>
