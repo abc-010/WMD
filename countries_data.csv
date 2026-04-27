@@ -1,0 +1,252 @@
+COUNTRYID,COUNTRY,CAPITALCITY,CONTINENT,CURRENCY,COUNTRYCODE,TELCODE
+1,Algeria,Algier,Africa,DZD,DZ,213
+2,Angola,Luanda,Africa,AOA,AO,244
+3,Ascension Island,Georgetown,Africa,AC,AC,247
+4,Benin,Porto Novo,Africa,XOF,BJ,229
+5,Botswana,Gaborone,Africa,BWP,BW,267
+6,Burkina Faso,Ouagadougou,Africa,XOF,BF,226
+7,Burundi,Bujumbura,Africa,BIF,BI,257
+8,Cameroon,YaoundÃ©,Africa,XAF,CM,237
+9,Cape Verde,Praia,Africa,CVE,CV,238
+10,Central African Republic,Bangui,Africa,XAF,CF,236
+11,Chad,NDjamena,Africa,XAF,TD,235
+12,Comoros,Moroni,Africa,KMF,KM,269
+13,Congo,Brazzaville,Africa,XAF,CG,242
+14,"Congo The Democratic Republic Of The",Kinshasa,Africa,CDF,CD,243
+15,CÃ”te Divoire,Yamoussoukro,Africa,XOF,CI,225
+16,Diego Garcia,Diego Garcia (Main Island),Africa,DG,DG,246
+17,Djibouti,Djibouti City,Africa,DJF,DJ,253
+18,Egypt,Kairo,Africa,EGP,EG,20
+19,Equatorial Guinea,Malabo,Africa,XAF,GQ,240
+20,Eritrea,Asmara (Asmera),Africa,ERN,ER,291
+21,Ethiopia,Addis Abeba,Africa,ETB,ET,251
+22,Falkland Islands (malvinas),Port Stanley,Africa,FLP,FK,500
+23,Gabon,Libreville,Africa,XAF,GA,241
+24,Ghana,Accra,Africa,GHC,GH,233
+25,Gibraltar,Gibraltar (Stadt),Africa,GIP,GI,350
+26,Guinea,Conakry,Africa,GNF,GN,224
+27,Guinea-Bissau,Bissau,Africa,XOF,GW,245
+28,Kenya,Nairobi,Africa,KES,KE,254
+29,Lesotho,Maseru,Africa,LSL,LS,266
+30,Liberia,Monrovia,Africa,LRD,LR,231
+31,Libya,Tripolis,Africa,LYD,LY,218
+32,Madagascar,Antananarivo,Africa,MGA,MG,261
+33,Malawi,Lilongwe,Africa,MWK,MW,265
+34,Mali,Bamako,Africa,XOF,ML,223
+35,Mauritania,Nouakchott,Africa,MRO,MR,222
+36,Mauritius,Port Louis,Africa,MUR,MU,230
+37,Mayotte,Mamoudzou,Africa,EUR,YT,269
+38,Morocco,Rabat,Africa,MAD,MA,211
+39,Mozambique,Maputo,Africa,MZM,MZ,258
+40,Namibia,Windhoek,Africa,ZAR,NA,264
+41,Niger,Niamey,Africa,XOF,NE,227
+42,Nigeria,Abuja,Africa,NGN,NG,234
+43,RÃ‰union,Saint-Denis,Africa,EUR,RE,262
+44,Rwanda,Kigali,Africa,RWF,RW,250
+45,Saint Helena,Jamestown,Africa,SHP,SH,290
+46,Sao Tome And Principe,SÃ£o TomÃ©,Africa,STD,ST,239
+47,Senegal,Dakar,Africa,XOF,SN,221
+48,Seychelles,Victoria,Africa,SCR,SC,248
+49,Sierra Leone,Freetown,Africa,SLL,SL,232
+50,Somalia,Mogadischu,Africa,SOS,SO,252
+51,South Africa,Pretoria,Africa,ZAR,ZA,27
+52,Sudan,Khartum,Africa,SDD,SD,249
+53,Swaziland,Mbabane,Africa,SZL,SZ,268
+54,"Tanzania United Republic Of",Dodoma,Africa,TZS,TZ,255
+55,The Gambia,Banjul,Africa,GMD,GM,220
+56,Togo,LomÃ©,Africa,XOF,TG,228
+57,Tristan da Cunha,Jamestown,Africa,TA,TA,290
+58,Tunisia,Tunis,Africa,TND,TN,216
+59,Uganda,Kampala,Africa,UGX,UG,256
+60,Western Sahara,El AaiÃºn,Africa,MAD,EH,0
+61,Zambia,Lusaka,Africa,ZMK,ZM,260
+62,Zimbabwe,Harare,Africa,ZWD,ZW,263
+63,Afghanistan,Kabul,Asia,AFN,AF,93
+64,Armenia,Eriwan,Asia,AMD,AM,374
+65,Azerbaijan,Baku,Asia,AZN,AZ,994
+66,Bahrain,Manama,Asia,BHD,BH,973
+67,Bangladesh,Dhaka,Asia,BDT,BD,880
+68,Bhutan,Thimphu,Asia,BTN,BT,975
+69,British Indian Ocean Territory,-/-,Asia,USD,IO,0
+70,Brunei Darussalam,Bandar Seri Begawan,Asia,BND,BN,673
+71,Burma,Rangun,Asia,MMK,MM,95
+72,Cambodia,Phnom Penh,Asia,KHR,KH,855
+73,China,Peking (Beijing),Asia,CNY,CN,86
+74,Christmas Island,Flying Fish Cove,Asia,AUD,CX,61
+75,Cocos (keeling) Islands,West Island,Asia,AUD,CC,0
+76,Cyprus,Nikosia,Asia,CYP,CY,357
+77,Guam,HagÃ¥tÃ±a,Asia,USD,GU,1671
+78,Hong Kong,-/-,Asia,HNL,HK,852
+79,India,Neu-Delhi,Asia,ISK,IN,91
+80,Indonesia,Jakarta,Asia,INR,ID,62
+81,Iran,Teheran,Asia,IRR,IR,98
+82,Iraq,Bagdad,Asia,IDR,IQ,964
+83,Israel,Jerusalem,Asia,ILS,IL,972
+84,Japan,Tokio,Asia,JPY,JP,81
+85,Jordan,Amman,Asia,JOD,JO,962
+86,Kazakhstan,Astana,Asia,KZT,KZ,7
+87,Kuwait,Kuwait,Asia,KWD,KW,965
+88,Kyrgyzstan,Bischkek,Asia,KGS,KG,996
+89,Lao Peoples Democratic Republic,Vientiane,Asia,LAK,LA,856
+90,Lebanon,Beirut,Asia,LBP,LB,961
+91,Macao,-/-,Asia,MOP,MO,853
+92,Malaysia,Kuala Lumpur,Asia,MYR,MY,60
+93,Maldives,MalÃ©,Asia,MVR,MV,960
+94,Mongolia,Ulaanbaatar,Asia,MNT,MN,976
+95,Nepal,Kathmandu,Asia,NPR,NP,977
+96,North Korea,PjÃ¶ngjang,Asia,KPW,KP,850
+97,Oman,Maskat,Asia,OMR,OM,968
+98,Pakistan,Islamabad,Asia,PKR,PK,92
+99,"Palestinian Territory Occupied",Ramallah,Asia,PS,PS,970
+100,Philippines,Manila,Asia,PHP,PH,63
+101,Qatar,Doha,Asia,QAR,QA,974
+102,Russian Federation,Moskau,Asia,RUB,RU,7
+103,Saudi Arabia,Riad,Asia,SAR,SA,966
+104,Saudiâ€“Iraqi neutral zone,-/-,Asia,NT,NT,0
+105,Singapore,Singapur,Asia,SGD,SG,65
+106,South Korea,Seoul,Asia,KRW,KR,82
+107,Sri Lanka,Colombo,Asia,LKR,LK,94
+108,Syrian Arab Republic,Damaskus,Asia,SYP,SY,963
+109,Taiwan,Taipeh,Asia,TWD,TW,886
+110,Tajikistan,Duschanbe,Asia,RUB,TJ,992
+111,Thailand,Bangkok,Asia,THB,TH,66
+112,Turkey,Ankara,Asia,TRY,TR,90
+113,Turkmenistan,Asgabat,Asia,TMM,TM,993
+114,United Arab Emirates,Abu Dhabi,Asia,AED,AE,971
+115,Uzbekistan,Taschkent,Asia,UZS,UZ,998
+116,Viet Nam,HÃ  N?i,Asia,VND,VN,84
+117,Yemen,Sanaa,Asia,YER,YE,967
+118,Antarctica,Juneau,Antarctica,AQ,AQ,672
+119,Bouvet Island,(Forschungsinsel),Antarctica,NOK,BV,0
+120,French Southern Territories,Port-aux-FranÃ§ais,Antarctica,EUR,TF,0
+121,American Samoa,Pago-Pago,Australia,USD,AS,1684
+122,Australia,Canberra,Australia,AUD,AU,61
+123,Cook Islands,Avarua,Australia,NZD,CK,682
+124,East Timor,Dili,Australia,IDR,TL,670
+125,Fiji,Suva,Australia,FJD,FJ,679
+126,French Polynesia,Papeete,Australia,XPF,PF,689
+127,Heard Island And Mcdonald Islands,-/-,Australia,AUD,HM,0
+128,Kiribati,Bairiki,Australia,AUD,KI,686
+129,Marshall Islands,Delap-Uliga-Darrit,Australia,USD,MH,692
+130,"Micronesia Federated States Of",Palikir,Australia,USD,FM,691
+131,Nauru,Yaren,Australia,AUD,NR,674
+132,New Caledonia,NoumÃ©a,Australia,XPF,NC,687
+133,New Zealand,Wellington,Australia,NZD,NZ,64
+134,Niue,Alofi,Australia,NZD,NU,683
+135,Norfolk Island,Kingston,Australia,AUD,NF,6723
+136,Northern Mariana Islands,Saipan,Australia,USD,MP,1670
+137,Palau,Melekeok,Australia,USD,PW,680
+138,Papua New Guinea,Port Moresby,Australia,PGK,PG,675
+139,Pitcairn,Adamstown,Australia,NZD,PN,649
+140,Samoa,Apia,Australia,WST,WS,0
+141,Solomon Islands,Honiara,Australia,SBD,SB,677
+142,Tokelau,-/-,Australia,NZD,TK,690
+143,Tonga,Nukuâ€™alofa,Australia,TOP,TO,676
+144,Tuvalu,Funafuti,Australia,TVD,TV,688
+145,Vanuatu,Port Vila,Australia,VUV,VU,678
+146,Wallis And Futuna,Mata-Utu,Australia,XPF,WF,681
+147,Ã…land Islands,Mariehamn,Europe,EUR,AX,35818
+148,Albania,Tirana,Europe,ALL,AL,355
+149,Andorra,Andorra la Vella,Europe,EUR,AD,376
+150,Austria,Wien,Europe,EUR,AT,43
+151,Belarus,Minsk,Europe,BYR,BY,375
+152,Belgium,BrÃ¼ssel,Europe,EUR,BE,32
+153,Bosnia And Herzegovina,Sarajevo,Europe,BAM,BA,387
+154,Bulgaria,Sofia,Europe,BGN,BG,359
+155,Canary Islands,Santa Cruz de Tenerife,Europe,IC,IC,0
+156,Croatia,Zagreb,Europe,HRK,HR,385
+157,Czech Republic,Prag,Europe,CZK,CZ,420
+158,Denmark,Kopenhagen,Europe,DKK,DK,45
+159,Estonia,Tallinn (Reval),Europe,EEK,EE,372
+160,European Union,Brussels,Europe,EUR,EU,3883
+161,Faroe Islands,TÃ³rshavn,Europe,DKK,FO,298
+162,Finland,Helsinki,Europe,EUR,FI,358
+163,France,Paris,Europe,EUR,FR,33
+164,Georgia,Tiflis,Europe,GEL,GE,995
+165,Germany,Berlin,Europe,EUR,DE,49
+166,Greece,Athen,Europe,EUR,GR,30
+167,Guernsey,St. Peter Port,Europe,GGP,GG,44148
+168,Hungary,Budapest,Europe,HUF,HU,36
+169,Iceland,ReykjavÃ­k,Europe,HUF,IS,354
+170,Ireland,Dublin,Europe,EUR,IE,353
+171,Isle Of Man,Douglas,Europe,IMP,IM,44
+172,Italy,Rom,Europe,EUR,IT,39
+173,Jersey,Saint Helier,Europe,JEP,JE,44
+174,Latvia,Riga,Europe,LVL,LV,371
+175,Liechtenstein,Vaduz,Europe,CHF,LI,423
+176,Lithuania,Wilna,Europe,LTL,LT,370
+177,Luxembourg,Luxemburg,Europe,EUR,LU,352
+178,Malta,Valletta,Europe,EUR,MT,356
+179,Moldova,Chisinau,Europe,MDL,MD,373
+180,Monaco,Monaco,Europe,EUR,MC,377
+181,Montenegro,Podgorica,Europe,ME,ME,382
+182,Netherlands,Amsterdam,Europe,EUR,NL,31
+183,Norway,Oslo,Europe,NOK,NO,47
+184,Poland,Warschau,Europe,PLN,PL,48
+185,Portugal,Lissabon,Europe,EUR,PT,351
+186,Republic of Macedonia,Skopje,Europe,MKD,MK,389
+187,Romania,Bukarest,Europe,RON,RO,40
+188,San Marino,San Marino,Europe,EUR,SM,378
+189,Serbia,Belgrade,Europe,RSD,RS,381
+190,Serbien und Montenegro,Belgrad,Europe,CS,CS,381
+191,Slovakia,Bratislava,Europe,SKK,SK,421
+192,Slovenia,Ljubljana,Europe,SIT,SI,386
+193,Soviet Union,Moskau,Europe,SU,SU,0
+194,Spain,Madrid,Europe,EUR,ES,34
+195,Svalbard And Jan Mayen,Longyearbyen,Europe,NOK,SJ,0
+196,Sweden,Stockholm,Europe,SEK,SE,46
+197,Switzerland,Bern,Europe,CHF,CH,41
+198,Ukraine,Kiew,Europe,UAH,UA,380
+199,United Kingdom,London,Europe,GBP,GB,44
+200,Vatican City,Vatican City,Europe,EUR,VA,3906
+201,Anguilla,The Valley,North America,XCD,AI,1264
+202,Antigua And Barbuda,Saint Johns,North America,XCD,AG,1268
+203,Aruba,Oranjestad,North America,ANG,AW,297
+204,Bahamas,Nassau,North America,BSD,BS,1242
+205,Barbados,Bridgetown,North America,BBD,BB,1246
+206,Belize,Belmopan,North America,BZD,BZ,51
+207,Bermuda,Hamilton,North America,BMD,BM,1441
+208,British Virgin Islands,Road Town,North America,USD,VG,1284
+209,Canada,Ottawa,North America,CAD,CA,0
+210,Cayman Islands,George Town,North America,KYD,KY,1345
+211,Costa Rica,San JosÃ©,North America,CRC,CR,56
+212,Cuba,Havanna,North America,CUP,CU,53
+213,Dominica,Roseau,North America,XCD,DM,1767
+214,El Salvador,San Salvador,North America,SVC,SV,53
+215,Greenland,Nuuk,North America,DKK,GL,299
+216,Grenada,St. Georges,North America,XCD,GD,1473
+217,Guadeloupe,Basse-Terre,North America,EUR,GP,590
+218,Guatemala,Guatemala-Stadt,North America,GTQ,GT,52
+219,Haiti,Port-au-Prince,North America,USD,HT,59
+220,Honduras,Tegucigalpa,North America,HNL,HN,54
+221,Jamaica,Kingston,North America,JMD,JM,1876
+222,Martinique,Fort-de-France,North America,EUR,MQ,596
+223,Mexico,Mexiko-Stadt,North America,MXN,MX,52
+224,Montserrat,Plymouth,North America,XCD,MS,1664
+225,Netherlands Antilles,Willemstad,North America,ANG,AN,599
+226,Nicaragua,Managua,North America,NIO,NI,55
+227,Puerto Rico,San Juan,North America,USD,PR,1939
+228,Saint Kitts And Nevis,Basseterre,North America,XCD,KN,1869
+229,Saint Pierre And Miquelon,Saint-Pierre,North America,EUR,PM,508
+230,Turks And Caicos Islands,Cockburn Town auf Grand Turk,North America,USD,TC,1649
+231,United States,"Washington D.C.",North America,USD,US,1
+232,Argentina,Buenos Aires,South America,ARS,AR,54
+233,Bolivia,Sucre,South America,BOB,BO,591
+234,Brazil,BrasÃ­lia,South America,BRL,BR,55
+235,Chile,Santiago,South America,CLP,CL,56
+236,Colombia,Santa FÃ© de BogotÃ¡,South America,COP,CO,57
+237,Dominican Republic,Santo Domingo,South America,DOP,DO,1809
+238,Ecuador,Quito,South America,USD,EC,593
+239,French Guiana,Cayenne,South America,EUR,GF,594
+240,Guyana,Georgetown,South America,GYD,GY,592
+241,Panama,Panama City,South America,USD,PA,57
+242,Paraguay,AsunciÃ³n,South America,PYG,PY,595
+243,Peru,Lima,South America,PEN,PE,51
+244,Saint Lucia,Castries,South America,XCD,LC,1758
+245,Saint Vincent and the Grenadines,Kingstown,South America,XCD,VC,1784
+246,South Georgia And The South Sandwich Islands,King Edward Point,South America,GBP,GS,0
+247,Suriname,Paramaribo,South America,SRD,SR,597
+248,Trinidad And Tobago,Port-of-Spain,South America,TTD,TT,1868
+249,Uruguay,Montevideo,South America,UYU,UY,598
+250,Venezuela,Caracas,South America,VEB,VE,58
+251,"Virgin Islands U.s.",Charlotte Amalie,South America,USD,VI,1340
