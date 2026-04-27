@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>World Countries</title>
+        <style>
+            body{
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #wrapper{
+                width: 80%;
+                margin: auto;
+                padding: 10px;
+            }
+            table {
+                width: 50%;
+                border-collapse: collapse;
+                background-color: azure;
+            }
+            th, td {
+                border: 1px solid black;
+                padding: 8px;
+                text-align: left;
+            }
+            th {
+                background-color: #f2f2f2;
+            }
+            tr:nth-child(2n+1){
+                background-color: azure;
+            }
+
+            table th {
+                position: sticky;   /* Stick header */
+                top: 0;             /* Sticks the header to the top of the container */
+                z-index: 2;         /* Keeps header above scrolling body cells */
+                /* background: #fff; /* SET IF NOT SET - Required so underlying text doesn't show through */
+            }
+
+            .ddl{
+                font-size: 1em;
+                margin-bottom: 10px;
+                height: 30px;
+            }
+        </style>
+    </head>
+
+<body>
+
+    <div id="wrapper">
+
+
+        <label for="country" class="ddl">Country Name :  </label>
+        <select id="country" class="ddl"></select>
+        <script>
+
+            //create table from normalised data where first row is headers
+            async function CreateHtmlTable(promise_data, tblcontainer='#wrapper') {
+                var data = await promise_data; //resolve stubborn promise data | async/await
+                console.log(data);
+
+                //create table element
+                const table = document.createElement('table');
+                table.setAttribute('id', 'tbl');
+
+                //extract header columns from first row
+                var columns = Object.values(data[0]);
+
+                //add header row
+                const headerRow = document.createElement('tr');
+                columns.forEach(key => {
+                    const th = document.createElement('th');
+                    th.setAttribute('onclick', 'SortByColumn(this)');
+                    th.setAttribute('onmouseover', "this.style.cursor='pointer'");
+                    th.setAttribute('onmouseout', "this.style.cursor='default'");
+                    th.textContent = key; //.toUpperCase();
+                    headerRow.appendChild(th);
+                });
+                table.appendChild(headerRow);
+
+                //get table data | extract from row index 1 since first row index 0 is header 
+                var tabledata = data.slice(1) //extract from 1 
+                                    .map(row => Object.values(row)); //extract values apply to all rows
+
+                //add data rows
+                tabledata.forEach(datarow => {
+                    const row = document.createElement('tr');
+                    datarow.forEach(value => {
+                        const td = document.createElement('td');
+                        td.textContent = value;
+                        row.appendChild(td);
+                    });
+                    table.appendChild(row);
+                });
+
+                //add table to element
+                document.body.querySelector(`${tblcontainer}`).appendChild(table);
+            }
+
+            //get file data
+            var filedata = GetFileData('countries_data.json'); //wmd_students.json|csv
+            
+            //sort data by desired zero based index
+            filedata = SortArrayData(filedata, 1);
+
+            //create table call
+            CreateHtmlTable(filedata);
+
+            //read file data : csv
+            function GetFileData(url) {
+                
+                if (url.toLowerCase().endsWith(".csv") || url.toLowerCase().endsWith(".txt")) {
+
+                    // Simple manual parsing: split by line and then by comma
+                    return fetch(url)
+                        .then(response => response.text())
+                        .then(text => {
+                            const lines = text.trim().split('\n');
+                            const data = lines.map(row => row.split(','));
+                            console.log(data);
+                            return data;
+                        });  
+
+                } else if(url.endsWith('.json')){
+
+                    return fetch(url)
+                        .then(response => response.json())
+                        .then(jsonData => {
+                            const headers = Object.keys(jsonData[0]);             //1. get headers from first row keys
+                            const rows = jsonData.map(obj => Object.values(obj)); //2. Map through data to get values
+                            const normalizedArray = [headers, ...rows];           //3. Normalise - Combine headers and rows
+                            console.log(normalizedArray);
+                            return normalizedArray;
+                        });  
+                }
+            }
+
+            //load dropdown
+            (async function LoadDropDown(promise_data){
+                var arrdata = await promise_data;  //resolve promise
+                var data = Object.values(arrdata); //get values data
+                var cbo = document.querySelector("#country");
+                cbo.add(new Option("Select...", "0"));
+                data.slice(1).forEach(row => { //skip header row 0
+                    /*
+                    var option = document.createElement("option");
+                    option.key = row[5];
+                    option.textContent = row[1];
+                    cbo.add(option);
+                    */
+                    cbo.add(new Option(row[1], row[5]));
+                });
+            })(filedata);
+
+            //sort data by preferred column index
+            async function SortArrayData(promise_data, index){
+                data = await promise_data;  //resolve promise
+                const headers = data[0];    //1. get headers from first row keys
+                const rows = data.slice(1); //2. extract data from row 1
+                //sort data - Sort by (index column) ascending
+                if(index===0 || index===6){ //sort numbers
+                    rows.sort((a, b) => a[index] - b[index]); //rows.sort((a, b) => b[index] - a[index]); //descending
+                }else{ //sort strings
+                    rows.sort((a, b) => a[index].localeCompare(b[index])); //rows.sort((a, b) => b[index].localeCompare(a[index]));
+                }
+                const sortedArray = [headers, ...rows];  //3. Normalise - Combine headers and rows
+                return sortedArray;
+            }
+
+            //sort by column
+            function SortByColumn(cell){ 
+                var index = cell.cellIndex;
+
+                //get file data
+                var filedata = GetFileData('countries_data.json'); //wmd_students.json|csv
+                
+                //sort data by desired zero based index
+                filedata = SortArrayData(filedata, index);
+
+                //remove table first then recreate
+                const myTable = document.getElementById("tbl");
+                if (myTable) { myTable.remove(); }
+
+                //create table call
+                CreateHtmlTable(filedata);
+
+            }
+
+            //check if is Valid Json
+            const isValidJSON = (str) => { try { JSON.parse(str); return true; } catch (e) { return false; } };
+            //var isJson = isValidJSON("data"); //call
+            //----
+        </script>
+
+    </div>
+
+</body>
+
+</html>
